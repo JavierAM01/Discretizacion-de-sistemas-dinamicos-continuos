@@ -29,7 +29,7 @@ $$
 Se trata de una ecuación diferencial que describe la evolución de $q(t)$ y de $p(t) = \dot{q}/2$.
 
 Tomemos $a = 3$ y $b = 1/2$. Supón que disponemos de un conjunto de condiciones iniciales
-$D0 := [0, 1] × [0, 1]$, y una granularidad del parámetro temporal $t = n\delta$ con $\delta \in [10−4 , 10−3 ]$,
+$D_0 := [0, 1] × [0, 1]$, y una granularidad del parámetro temporal $t = n\delta$ con $\delta \in [10−4 , 10−3 ]$,
 $n\in \mathbb{N}\cup\{0\}$, con la que puede estimarse la sensibilidad del sistema al grado de discretización.
 
  1) Representa gráficamente el espacio fásico $D_{(0,\infty)}$ de las órbitas finales del sistema con las
